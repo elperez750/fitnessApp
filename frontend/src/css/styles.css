@@ -1,0 +1,114 @@
+
+  .image{
+    
+    margin-left:200px;
+  }
+  
+  .navbar ul {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+  }
+
+
+  .navbar ul li {
+    margin: 0 10px;
+  }
+
+
+  .navbar li {
+    margin: 0 10px;
+    justify-content: center;
+  }
+
+  
+  
+  .navbar a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 25px;
+    justify-content: center;
+  }
+
+
+.foods{
+    display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.foods-container{
+    display: flex;
+    justify-content: space-between;
+}
+.delete-button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    
+}
+
+.btn {
+    margin-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+
+.input-sm{
+    width:auto;
+   
+    
+}
+
+.label{
+    font-weight: bold;
+}
+
+.food-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.list-container {
+  background-color: #fcfcfc;
+  border: 1px solid #1b41a7;
+  border-radius: 5px;
+  padding: 0px;
+  justify-content: center;
+  border-bottom: 1px solid #ddd;
+}
+
+.col{
+  font-weight: bold;
+  
+}
+
+.Meal{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.display{
+  display:none;
+}
+
+.total-calories{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 25px;
+  font-weight: bolder;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
